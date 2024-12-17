@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio</title>
+
+
+  <link rel="stylesheet" href="main.css">
+  
+
+</head>
+<body>
+  <header>
+    <h1>Dev. Hardmann</h1>
+
+    <nav>
+      <a href="">
+        <i>LinkedIn</i>
+      </a>
+
+      <a href="">
+        <i>GitHub</i>
+      </a>
+
+      <a href="">
+        <i>Instagram</i>
+      </a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="main-content">
+      <h1>Sobre mim</h1>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi quos necessitatibus minus perspiciatis quas sint consequuntur veniam velit odio iusto, ea quia excepturi quae ad veritatis delectus, itaque enim sapiente.</p>
+    </section>
+
+    <aside class="techs">
+      <h2>Tecnologias</h2>
+
+      <div class="cards-container">
+        <div class="card">
+          <img src="https://ru.w3docs.com/uploads/media/book_gallery/0001/02/849d4286475e04155fd5f21861f16f53db95ac72.png">
+        </div>
+
+        <div class="card">
+          <img src="https://www.freelogovectors.net/svg05/css-3-logo.svg">
+        </div>
+
+      </div>
+    </aside>
+
+    <footer>
+      <p>Criado por Felipe Hardmann</p>
+    </footer>
+  </main>
+  
+</body>
+</html>
